@@ -1,3 +1,5 @@
+# while문
+
 treeHit = 0
 while treeHit < 10:
     treeHit += 1

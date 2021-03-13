@@ -1,4 +1,5 @@
 # 딕셔너리 자료형
+
 # 딕셔너리는 Key와 Value를 한 쌍으로 갖는 자료형
 # 딕셔너리는 리스트나 튜플처럼 순차적으로 해당 요소값을 구하지 않고 Key를 통해 Value 얻는다
 dic = {'name': 'pey', 'phone': '011993323', 'birth': '1118'}
@@ -38,10 +39,10 @@ print(a.keys())  # dict_keys 객체 반환해준다. 만약에 반환 값으로 
 # Value 리스트 만들기(values)
 print(a.values())
 
-# Key, Value 쌍 얻기(items) items 함수는 Key와 Value의 쌍을 튜플로 묶은 값을 dict_items 객체로 반
+# Key, Value 쌍 얻기(items) items 함수는 Key와 Value의 쌍을 튜플로 묶은 값을 dict_items 객체로 반환
 print(a.items())
 
-# Key, Value 쌍 모두 지우기(clear) clear 함수는 딕셔너리 내 모든 요소 삭제. 빈 딕셔너리는 {}로 표
+# Key, Value 쌍 모두 지우기(clear) clear 함수는 딕셔너리 내 모든 요소 삭제. 빈 딕셔너리는 {}로 표현
 a.clear()
 
 # Key로 Value 얻기(get)

@@ -1,4 +1,5 @@
 # if문
+
 money = True
 if money:
     print("택시")
@@ -48,5 +49,3 @@ else: print("카드를 꺼내라")
 score = 60
 message = "success" if score >= 60 else "failure"
 # 조건문 참인 경우 if 조건문 else 조건문 거짓인 경우
-
-

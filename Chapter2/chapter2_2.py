@@ -1,4 +1,5 @@
 # 문자열 자료형
+
 # 문자열 만드는 방법 4가지
 str = "Hello World"
 str = 'Python is fun'
