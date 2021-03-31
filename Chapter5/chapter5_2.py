@@ -80,8 +80,8 @@ class Math:
     def solv(self, r):
         return PI * (r ** 2) 
     
-    def add(a, b):
-        return a+b
+def add(a, b):
+    return a+b
 """
 # mod2.py는 클래스, 함수, 변수 등을 모두 포함
 
